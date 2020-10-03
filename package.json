@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Bryan-Developer/session-storage-project/issues"
   },
-  "homepage": "https://github.com/Bryan-Developer/session-storage-project#readme"
+  "homepage": "https://github.com/Bryan-Developer/session-storage-project#readme",
+  "dependencies": {
+    "react": "^16.13.1"
+  }
 }
